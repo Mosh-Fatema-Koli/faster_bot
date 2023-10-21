@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "493011606946",
+    "project_id": "wowapp-b5ae5",
+    "storage_bucket": "wowapp-b5ae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493011606946:android:2cfbfd4dad57db19cb26fb",
+        "android_client_info": {
+          "package_name": "com.wowapp.wow_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493011606946-luculfsdqj1vm0ro3n1gvnk06ri4ng0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrKUngDCnabK9IdatxwYkH6FYlWkfRRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493011606946-50po7je7ek1upn3860mqc4ebpvjh0nke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493011606946-3k428t165qjims8bvfmjmghebcnl3do9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wowinnova.wowChatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493011606946:android:6dacfca52235410fcb26fb",
+        "android_client_info": {
+          "package_name": "com.wowinnova.wow_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493011606946-l3g55vnd712p4kblf5pb4qjmgma9d5ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wowinnova.wow_chat_app",
+            "certificate_hash": "aba9b8f4b88b53fa422796b35a43ecf6c3bf0523"
+          }
+        },
+        {
+          "client_id": "493011606946-ln4238lru700ocjqgd7qb6k4ltj9svgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wowinnova.wow_chat_app",
+            "certificate_hash": "c12fccf84a8e700373d985db3066b166d7b6179b"
+          }
+        },
+        {
+          "client_id": "493011606946-nlq7ho614m28n9d452cospi0dsgqc1i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wowinnova.wow_chat_app",
+            "certificate_hash": "bb8b92202ad5816e034848396be4b707a8b149a3"
+          }
+        },
+        {
+          "client_id": "493011606946-sce31j94ru5lt3ses35do3qdivtkh3ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wowinnova.wow_chat_app",
+            "certificate_hash": "aaa7b28149d9b7971966a8abb6cdb4f6db50a9fc"
+          }
+        },
+        {
+          "client_id": "493011606946-luculfsdqj1vm0ro3n1gvnk06ri4ng0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrKUngDCnabK9IdatxwYkH6FYlWkfRRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493011606946-50po7je7ek1upn3860mqc4ebpvjh0nke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493011606946-3k428t165qjims8bvfmjmghebcnl3do9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wowinnova.wowChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
